@@ -5,4 +5,7 @@ package org.example;
 //For example, if word = "abcdefd" and ch = "d", then you should reverse the segment that starts at 0 and ends at 3 (inclusive). The resulting string will be "dcbaefd".
 //Return the resulting string.
 public class ReversePrefix {
+    public String reversePrefix(String word, char ch) {
+        return "";
+    }
 }

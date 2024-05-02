@@ -7,5 +7,7 @@ package org.example;
 //Given edges and the integers n, source, and destination, return true if there is a valid path from source to destination, or false otherwise.
 
 public class FindIfPathExistsInGraph {
-
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        return false; //replace
+    }
 }
